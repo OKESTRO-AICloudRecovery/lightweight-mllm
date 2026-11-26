@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv*/
+.pytest_cache/
+.DS_Store
+
+# 벤치마크 데이터·모델 가중치·결과 (scripts/download.sh 로 받음)
+data/
+models/
+results/

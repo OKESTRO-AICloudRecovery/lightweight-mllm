@@ -1,0 +1,14 @@
+lightweight-mllm
+Copyright 2026 OKESTRO Co., Ltd. (오케스트로 주식회사)
+
+This software was developed as part of the project "AI Assistant-based Automation
+Technologies for Operations and Management in Cloud Failure Recovery", supported by
+the Institute of Information & communications Technology Planning & Evaluation (IITP)
+grant funded by the Korea government (MSIT) (No. RS-2025-25441560).
+
+Third-party notices
+- lightweight_mllm/bench/parse.py re-implements the MMMU answer-parsing rules from
+  MMMU-Benchmark/MMMU (eval/utils/eval_utils.py), licensed under the Apache License 2.0.
+- The MMMU prompt format and image resolution range follow VLMEvalKit (Apache License 2.0).
+- Benchmark datasets (MMLU, MMMU, MMAU) and model weights are not redistributed;
+  scripts/download.sh fetches them under their own licenses.
