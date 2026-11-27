@@ -4,7 +4,7 @@
 
 [![CI](https://github.com/OKESTRO-AICloudRecovery/lightweight-mllm/actions/workflows/ci.yml/badge.svg)](https://github.com/OKESTRO-AICloudRecovery/lightweight-mllm/actions/workflows/ci.yml)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
-![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)
+![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)
 
 ## 1. 운영 시각 데이터 VQA 데이터셋 (`lightweight_mllm.vqa_dataset`)
 
